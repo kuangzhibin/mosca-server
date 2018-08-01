@@ -1,0 +1,27 @@
+{
+  "name": "mosca-server",
+  "version": "0.0.1",
+  "description": "基于mosca搭建的mqtt服务",
+  "main": "app.js",
+  "dependencies": {
+    "mosca": "^2.8.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kuangzhibin/mosca-server.git"
+  },
+  "keywords": [
+    "mosca",
+    "mqtt"
+  ],
+  "author": "kuangkwan (kuangzhibin@live.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kuangzhibin/mosca-server/issues"
+  },
+  "homepage": "https://github.com/kuangzhibin/mosca-server#readme"
+}
